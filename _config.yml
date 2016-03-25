@@ -1,6 +1,6 @@
 name: EZPolitics
 favicon: null
-layout_spectrum: 0.5838228759821504
+layout_spectrum: 0.83758
 typography_spectrum: 0.21689759846776724
 title: 'Politics Made EZ!'
 cta:
@@ -23,7 +23,7 @@ color:
     - '#6772f0'
     - '#450000'
   brandStrength: 0.6589674537535757
-  lightness: 0.21780909271910787
-  saturation: 0.1866078171879053
+  lightness: 0.3125
+  saturation: 0.5625
   rhythmicContrast: 0.4530842618551105
 purpose: []
