@@ -2,6 +2,7 @@ name: EZPolitics
 favicon: null
 layout_spectrum: 0.5838228759821504
 typography_spectrum: 0.21689759846776724
+title: 'Politics Made EZ!'
 cta:
   domain: null
   bucket: null
