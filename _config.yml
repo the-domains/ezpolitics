@@ -1,29 +1,41 @@
-name: EZPolitics
-favicon: null
-layout_spectrum: 0.83758
-typography_spectrum: 0.21689759846776724
-title: 'Politics Made EZ!'
-cta:
-  domain: null
-  bucket: null
-  version: null
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
 opengraph:
   image: null
   type: null
   appId: null
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+layout_spectrum: 0.83758
+title: 'Politics Made EZ!'
+cta:
+  bucket: null
+  version: null
+  domain: null
 color:
+  saturation: 0.5625
+  brandStrength: 0.6589674537535757
+  rhythmicContrast: 0.4530842618551105
   brandColors:
     - '#fefefe'
     - '#ba0000'
     - '#2b24ad'
     - '#6772f0'
     - '#450000'
-  brandStrength: 0.6589674537535757
   lightness: 0.3125
-  saturation: 0.5625
-  rhythmicContrast: 0.4530842618551105
 purpose: []
+favicon: null
+name: EZPolitics
+typography_spectrum: 0.2168975984677672
