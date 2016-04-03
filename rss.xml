@@ -2,14 +2,20 @@
     <channel>
         <title><![CDATA[Politics Made EZ!]]></title>
         <description><![CDATA[Politics Made EZ!]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/ezpolitics/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 26 Mar 2016 17:46:31 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 03 Apr 2016 16:14:39 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/ezpolitics/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <link>https://thegrid.ai/ezpolitics/fc2f41e7-656b-4e0d-8da7-30176e00068a/index.html</link>
+            <guid isPermaLink="false">fc2f41e7-656b-4e0d-8da7-30176e00068a</guid>
+            <pubDate>Sun, 03 Apr 2016 16:14:19 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Welcome to EZPolitics!</p>]]></description>
-            <link>undefinedwelcome-to-ezpolitics/index.html</link>
+            <link>https://thegrid.ai/ezpolitics/welcome-to-ezpolitics/index.html</link>
             <guid isPermaLink="false">525d1169-803a-4357-9ca5-82c2cb17934b</guid>
             <pubDate>Sat, 26 Mar 2016 17:45:17 GMT</pubDate>
         </item>
